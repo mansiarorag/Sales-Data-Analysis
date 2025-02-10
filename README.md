@@ -2,7 +2,7 @@
 
 ![rainbow](https://github.com/user-attachments/assets/1ec3de2b-041e-474c-a8bb-e18c98974d2e)
 
-**Table of Contents**
+📋 **Table of Contents**
 
   •	About This Project
   
@@ -20,13 +20,13 @@
 
 ![rainbow](https://github.com/user-attachments/assets/1ec3de2b-041e-474c-a8bb-e18c98974d2e)
 
-**About This Project**
+📖 **About This Project**
 
   This project analyzes a dataset containing sales data to identify key trends and insights, such as total sales, top-selling cities, products, and store types. SQL scripts and Python were used for analysis, and the project is hosted on GitHub for easy sharing.
 
 ![rainbow](https://github.com/user-attachments/assets/3260e1be-13b8-4620-9376-15df0e66a279)
 
-**What's in This Repository?**
+📖 **What's in This Repository?**
 
   **1. Google Colab Notebook - SQL Scripts:** To explore data and calculate key metrics.
   
@@ -34,13 +34,13 @@
 
 ![rainbow](https://github.com/user-attachments/assets/3260e1be-13b8-4620-9376-15df0e66a279)
 
-**SQL Queries**
+📖 **SQL Queries**
 
 Below are the SQL queries used for this project: [https://github.com/mansiarorag/Sales-Data-Analysis/blob/main/Sales_Data_Analysis.ipynb]
 
 ![rainbow](https://github.com/user-attachments/assets/b00a5393-41e9-468d-a76c-c2c9909ddf3b)
 
-**Data Description**
+📖 **Data Description**
 
 **Dataset:** sales_data
 
@@ -86,7 +86,7 @@ Columns include:
 
 ![rainbow](https://github.com/user-attachments/assets/18dfa74b-4b0b-4b60-b009-73be2ae646a3)
 
-**What Does the Data Show? - SQL Query Results**
+📖 **What Does the Data Show? - SQL Query Results**
 
 **1. Aggregated Insights**
 
@@ -166,7 +166,7 @@ Columns include:
 
 ![rainbow](https://github.com/user-attachments/assets/b00a5393-41e9-468d-a76c-c2c9909ddf3b)
 
-**Tools Used**
+📖 **Tools Used**
 
   •	**Python:** For analyzing and summarizing data.
   
