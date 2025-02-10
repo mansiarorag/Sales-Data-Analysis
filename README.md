@@ -1,7 +1,7 @@
 # Sales-Data-Analysis
 ![rainbow](https://github.com/user-attachments/assets/1ec3de2b-041e-474c-a8bb-e18c98974d2e)
 
-#**About This Project**
+**About This Project**
 
 This project analyzes sales data to find useful insights, such as top-selling cities, products, and store types. SQL scripts and Python were used to explore the data and calculate key metrics.
 ![rainbow](https://github.com/user-attachments/assets/3260e1be-13b8-4620-9376-15df0e66a279)
