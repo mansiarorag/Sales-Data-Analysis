@@ -7,17 +7,16 @@
   •	About This Project
   
   •	What's in This Repository?
+
+  •	SQL Queries
   
   •	Data Description
   
   •	Key Insights
   
-  •	SQL Queries
-  
   •	Tools Used
   
   •	How to Use This Project
-
 
 ![rainbow](https://github.com/user-attachments/assets/1ec3de2b-041e-474c-a8bb-e18c98974d2e)
 
@@ -29,13 +28,17 @@
 
 **What's in This Repository?**
 
-  **1. SQL Scripts:** To explore data and calculate key metrics.
-  
-  **2. Google Colab Notebook:** For Python-based data analysis.
+  **1. Google Colab Notebook - SQL Scripts:** To explore data and calculate key metrics.
   
   **3. Results and Insights:** Key findings from the data.
 
-  ![rainbow](https://github.com/user-attachments/assets/3260e1be-13b8-4620-9376-15df0e66a279)
+![rainbow](https://github.com/user-attachments/assets/3260e1be-13b8-4620-9376-15df0e66a279)
+
+**SQL Queries**
+
+Below are the SQL queries used for this project: [https://github.com/mansiarorag/Sales-Data-Analysis/blob/main/Sales_Data_Analysis.ipynb](url)
+
+![rainbow](https://github.com/user-attachments/assets/b00a5393-41e9-468d-a76c-c2c9909ddf3b)
 
 **Data Description**
 
@@ -43,29 +46,43 @@
 
 Columns include:
 
-  •	**TransactionAmount (numeric):** Transaction value for each sale.
-  
-  •	**DiscountPercent (numeric):** Discount percentage applied.
-  
-  •	**ProductName (text):** Name of the sold product.
-  
-  •	**City (text):** City where the transaction occurred.
-  
-  •	**PaymentMethod (text):** Payment method used (e.g., Cash, UPI).
-  
-  •	**StoreType (text):** Store type (e.g., Online, In-Store).
-  
-  •	**CustomerAge (numeric):** Age of the customer.
-  
-  •	**FeedbackScore (numeric):** Feedback score provided (1-5 scale).
-  
-  •	**Returned (text):** Whether the product was returned (Yes or No).
-  
-  •	**Region (text):** Geographical region (e.g., North, South).
-  
-  •	**DeliveryTimeDays (numeric):** Number of days for product delivery.
-  
-  •	**ShippingCost (numeric):** Cost incurred for shipping.
+•  **TransactionID:** Unique identifier for each transaction.
+
+•  **CustomerID:** Unique identifier for the customer.
+
+•  **TransactionDate:** Date and time of the transaction.
+
+•  **TransactionAmount:** Monetary value of the transaction.
+
+•  **PaymentMethod:** Method of payment used (e.g., Cash, Debit Card).
+
+•  **Quantity:** Number of items purchased in the transaction.
+
+•  **DiscountPercent:** Discount percentage applied to the transaction.
+
+•  **City:** City where the transaction occurred.
+
+•  **StoreType:** Type of store (e.g., Online, In-Store).
+
+•  **CustomerAge:** Age of the customer.
+
+•  **CustomerGender:** Gender of the customer (Male/Female/Other).
+
+•  **LoyaltyPoints:** Loyalty points earned by the customer for the transaction.
+
+•  **ProductName:** Name of the product purchased.
+
+•  **Region:** Geographical region (e.g., North, West).
+
+•  **Returned:** Indicates if the product was returned (Yes or No).
+
+•  **FeedbackScore:** Feedback score given by the customer (scale of 1 to 5).
+
+•  **ShippingCost:** Cost incurred for shipping.
+
+•  **DeliveryTimeDays:** Number of days taken for product delivery.
+
+•  **IsPromotional:** Indicates if the product was part of a promotion (Yes or No).
 
 ![rainbow](https://github.com/user-attachments/assets/18dfa74b-4b0b-4b60-b009-73be2ae646a3)
 
