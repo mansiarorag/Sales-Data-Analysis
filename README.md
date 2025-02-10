@@ -1,5 +1,6 @@
 # Sales-Data-Analysis
 **About This Project**
+
 This project analyzes sales data to find useful insights, such as top-selling cities, products, and store types. SQL scripts and Python were used to explore the data and calculate key metrics.
 
 **What's in This Repository?**
