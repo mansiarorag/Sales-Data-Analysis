@@ -36,7 +36,7 @@
 
 **SQL Queries**
 
-Below are the SQL queries used for this project: [https://github.com/mansiarorag/Sales-Data-Analysis/blob/main/Sales_Data_Analysis.ipynb](url)
+Below are the SQL queries used for this project: [https://github.com/mansiarorag/Sales-Data-Analysis/blob/main/Sales_Data_Analysis.ipynb]
 
 ![rainbow](https://github.com/user-attachments/assets/b00a5393-41e9-468d-a76c-c2c9909ddf3b)
 
